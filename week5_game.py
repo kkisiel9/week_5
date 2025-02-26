@@ -30,7 +30,7 @@ def winner(player1, computer):
          (player1 == 'S' and computer == 'P'):
         return "Player 1 - You win!"
     else:
-        return "Player 2 - You win!"
+        return "Computer - You win!"
 
 
 def main():
